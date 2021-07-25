@@ -1,0 +1,6 @@
+
+* Python - Assert Statement
+    In Python, the assert statement is used to continue the execute if the given condition evaluates to True.
+    If the assert condition evaluates to False, then it raises the AssertionError exception with the specified 
+    error message.
+    # assert condition [, Error Message]
