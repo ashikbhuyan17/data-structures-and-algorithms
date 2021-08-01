@@ -65,15 +65,14 @@ check this is iterate through the string till middle of string and compare a cha
 # Recursive function to check if `str[low…high]` is a palindrome or not
 def isPalindrome(str, low, high):
 
-    # base case
+   
     if low >= high:
         return True
 
-    # return false if mismatch happens
+ 
     if str[low] != str[high]:
         return False
 
-    # move to the next pair
     return isPalindrome(str, low + 1, high - 1)
 
 
