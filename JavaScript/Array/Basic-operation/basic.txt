@@ -1,0 +1,5 @@
+What is array traversal?
+Traversal in a Linear Array is the process of visiting each element once. ...
+Traversal operation can be used in counting the array elements, printing the values stored in an array,
+updating the existing values or summing up all the element values.
+একটি অ্যারের প্রতিটি উপাদান প্রক্রিয়াকরণের জন্য ঠিক একবার অ্যাক্সেস করা হয়।
