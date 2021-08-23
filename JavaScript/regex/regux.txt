@@ -1,0 +1,33 @@
+Regular Expression or regex
+https://www.youtube.com/watch?v=5ckmCW8png0
+
+
+
+Regex uses 👍
+1. validate uses input
+2. side inside text  => find and replace e use kora hoi 
+
+steps : 
+1. / / => forward slash
+2. / / => forward slash bitor expression likbo 
+3. logical operation => |,&  => colour | color
+4. grouping with => () => (colour | color)
+
+character Classes : 
+By default first match is returned 
+5. Character Classes => \w matches any word character
+6. \d matches/select any digit 
+7. \s matches/select any whitespace
+8. \t matches/select tab character
+9. \n matches/select new line 
+10. dot character or period =>  . matches/select anything other than new line 
+11. \W matches/select anything other than word character
+12. \D matches/select anything other than digit 
+13. /S matches/select anything other than whitespace
+
+14. [abc] matches/select a single character that is contained with brackets => brackets e jey character pabe ta select kora heb 
+15. [a-z] matches/select => a-z pojonto sob character  select kra hbe 
+16. [a-gA-G] matches/select or [a-gA-Gj-lJ-L] 
+
+
+
