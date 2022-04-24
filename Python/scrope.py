@@ -10,15 +10,26 @@
 # function1("this is me")    
 
 
-def harry ():
-    x =20
-    def rohan():
-        global x 
-        x = 88
-    print("before calling rohan()",x)
-    rohan()
-    print("after calling rohan()",x)    
+# def harry ():
+#     x =20
+#     def rohan():
+#         global x 
+#         x = 88
+#     print("before calling rohan()",x)
+#     rohan()
+#     print("after calling rohan()",x)    
 
-harry()
+# harry()
 
+
+
+x = "awesome"
+
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)
 
